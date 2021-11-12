@@ -1,0 +1,16 @@
+Aula 243
+Creating project and git repository
+Project: http://github.com/acenelio/demo-dao-jdbc
+Checklist:
+ Github: create a new project
+o NOTE: choose .gitignore type as Java
+ Eclipse: create new java project with MySQLConnector library
+o Copy db package and db.properties from: https://github.com/cpm1163/jdbc
+
+Sincronizar o projeto do pc com o github (fazer o clone)
+# git init
+# git remote add origin https://github.com/cpm1163/demo-dao-jdbc
+# git pull origin main
+# git add .
+# git commit -m "Creating project and git repository"
+# git push -u origin master
