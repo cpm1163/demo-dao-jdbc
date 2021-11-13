@@ -20,7 +20,14 @@ Aula 244
 # git commit -m "Department entity class"
 # git push
 
-
+Aula 245
+# git status
 # git add .
 # git commit -m "Seller entity class"
+# git push
+
+Aula 246
+# git status
+# git add .
+# git commit -m "DepartmentDao and SellerDao interfaces"
 # git push
