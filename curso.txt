@@ -14,3 +14,8 @@ Sincronizar o projeto do pc com o github (fazer o clone)
 # git add .
 # git commit -m "Creating project and git repository"
 # git push -u origin master
+
+Aula 244
+git add .
+git commit -m "Department entity class"
+git push
