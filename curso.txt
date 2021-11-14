@@ -7,6 +7,12 @@ o NOTE: choose .gitignore type as Java
  Eclipse: create new java project with MySQLConnector library
 o Copy db package and db.properties from: https://github.com/cpm1163/jdbc
 
+Arquivo db.properties
+user=developer
+password=3133353739
+dburl=jdbc:mysql://localhost:3306/coursejdbc
+useSSL=false
+
 Sincronizar o projeto do pc com o github (fazer o clone)
 # git init
 # git remote add origin https://github.com/cpm1163/demo-dao-jdbc
@@ -30,4 +36,10 @@ Aula 246
 # git status
 # git add .
 # git commit -m "DepartmentDao and SellerDao interfaces"
+# git push
+
+Aula 247
+# git status
+# git add .
+# git commit -m "SellerDaoJDBC and DaoFactory"
 # git push
